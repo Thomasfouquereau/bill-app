@@ -1,0 +1,4 @@
+node_modules
+coverage
+.idea
+# ignore all demo file
